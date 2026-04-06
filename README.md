@@ -1,16 +1,14 @@
-## Hi there 👋
+# Gregory Artaud
 
-<!--
-**gregory-artaud/gregory-artaud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer focused on building clean, useful software.
 
-Here are some ideas to get you started:
+## Stack
+`TypeScript` `JavaScript` `Node.js` `React` `Next.js` `PostgreSQL` `Docker`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current focus
+- Shipping robust products end to end
+- Keeping code simple and maintainable
+- Improving testing and automation
+
+## Contact
+- GitHub: [@gregory-artaud](https://github.com/gregory-artaud)
